@@ -1,4 +1,4 @@
-﻿Ano do Óbito;1 Região Norte;2 Região Nordeste;3 Região Sudeste;4 Região Sul;5 Região Centro-Oeste;Total
+﻿Ano_do_Obito;Regiao_Norte;Regiao_Nordeste;Regiao_Sudeste;Regiao_Sul;Regiao_Centro_Oeste;Total
 2000;373;1136;2513;2033;725;6780
 2001;433;1429;3011;2164;701;7738
 2002;390;1541;2942;2050;803;7726
@@ -20,5 +20,5 @@
 2018;986;2990;4675;2896;1186;12733
 2019;1054;3082;4914;3177;1293;13520
 2020;1120;3234;5045;3135;1301;13835
-Total;14009;46883;78865;49987;19138;208882
+Total_dos_anos;14009;46883;78865;49987;19138;208882
  ;;;;;;
